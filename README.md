@@ -1,8 +1,10 @@
 # 2.5D_system_detail
 It contains two kinds of 2.5D system. .cfg files include the width, height, connectivity and number of chiplet, and the counts of connections.
+
 1.Open source benchmark systems: Multi-GPU system[1], CPU-DRAM system[2] and Huawei Ascend 910 system [3].
 
 2.Conceptual systems: case1~case5
+
 
 [1]Y. Ma, L. Delshadtehrani, C. Demirkiran, J. L. Abellan, and A. Joshi, “Tap-2.5 d: A thermally-aware chiplet placement methodology for 2.5 d systems,” in 2021 Design, Automation & Test in Europe Conference & Exhibition (DATE). IEEE, 2021, pp. 1246–1251.
 

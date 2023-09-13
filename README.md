@@ -46,52 +46,61 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 
 ### Comparisons of the final placement
 - case1
-|  |  |
-| :-------------------------:|:-------------------------: |
-|  |  |
-|  |  |
+| RLPlanner | RLPlanner(dense reward)  |RLPlanner(dense reward)|
+| :-------------------------:|:-------------------------: |:-------------------------: |
+|  |  | |
+| TAP-2.5D(Hotspot) | TAP-2.5D*(Table Model) | |
+|  |  | |
 
 - case2
-|  |  |
-| :-------------------------:|:-------------------------: |
-|  |  |
-|  |  |
+| RLPlanner | RLPlanner(dense reward)  |RLPlanner(dense reward)|
+| :-------------------------:|:-------------------------: |:-------------------------: |
+|  |  | |
+| TAP-2.5D(Hotspot) | TAP-2.5D*(Table Model) | |
+|  |  | |
 
 - case3
-|  |  |
-| :-------------------------:|:-------------------------: |
-|  |  |
-|  |  |
+| RLPlanner | RLPlanner(dense reward)  |RLPlanner(dense reward)|
+| :-------------------------:|:-------------------------: |:-------------------------: |
+|  |  | |
+| TAP-2.5D(Hotspot) | TAP-2.5D*(Table Model) | |
+|  |  | |
 
 - case4
-|  |  |
-| :-------------------------:|:-------------------------: |
-|  |  |
-|  |  |
+| RLPlanner | RLPlanner(dense reward)  |RLPlanner(dense reward)|
+| :-------------------------:|:-------------------------: |:-------------------------: |
+|  |  | |
+| TAP-2.5D(Hotspot) | TAP-2.5D*(Table Model) | |
+|  |  | |
 
 - case5
-|  |  |
-| :-------------------------:|:-------------------------: |
-|  |  |
-|  |  |
+| RLPlanner | RLPlanner(dense reward)  |RLPlanner(dense reward)|
+| :-------------------------:|:-------------------------: |:-------------------------: |
+|  |  | |
+| TAP-2.5D(Hotspot) | TAP-2.5D*(Table Model) | |
+|  |  | |
 
 - Multi-GPU
-|  |  |
-| :-------------------------:|:-------------------------: |
-|  |  |
-|  |  |
+| RLPlanner | RLPlanner(dense reward)  |RLPlanner(dense reward)|
+| :-------------------------:|:-------------------------: |:-------------------------: |
+|  |  | |
+| TAP-2.5D(Hotspot) | TAP-2.5D*(Table Model) | |
+|  |  | |
 
 - Micro150
-|  |  |
-| :-------------------------:|:-------------------------: |
-|  |  |
-|  |  |
+| RLPlanner | RLPlanner(dense reward)  |RLPlanner(dense reward)|
+| :-------------------------:|:-------------------------: |:-------------------------: |
+|  |  | |
+| TAP-2.5D(Hotspot) | TAP-2.5D*(Table Model) | |
+|  |  | |
 
 - Ascend910
-|  |  |
-| :-------------------------:|:-------------------------: |
-|  |  |
-|  |  |
+| RLPlanner | RLPlanner(dense reward)  |RLPlanner(dense reward)|
+| RLPlanner | RLPlanner(dense reward)  |RLPlanner(dense reward)|
+| :-------------------------:|:-------------------------: |:-------------------------: |
+|  |  | |
+| TAP-2.5D(Hotspot) | TAP-2.5D*(Table Model) | |
+|  |  | |
 
 ## References
 [1]Y. Ma, L. Delshadtehrani, C. Demirkiran, J. L. Abellan, and A. Joshi, “Tap-2.5 d: A thermally-aware chiplet placement methodology for 2.5 d systems,” in 2021 Design, Automation & Test in Europe Conference & Exhibition (DATE). IEEE, 2021, pp. 1246–1251.

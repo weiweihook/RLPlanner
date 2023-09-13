@@ -42,9 +42,40 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 
 ### Results
 ### Comparisons of reward, wirelength, temperature and runtime
-https://github.com/weiweihook/2.5D-system-detail/blob/main/results/comparison_RWTR.png
+![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/comparison_RWTR.png)
 
 ### Comparisons of the final placement
+| case1 |  |
+| :-------------------------:|:-------------------------: |
+| Activation Function | Linear rectification function|
+
+| case2 |  |
+| :-------------------------:|:-------------------------: |
+| Activation Function | Linear rectification function|
+
+| case3 |  |
+| :-------------------------:|:-------------------------: |
+| Activation Function | Linear rectification function|
+
+| case4 |  |
+| :-------------------------:|:-------------------------: |
+| Activation Function | Linear rectification function|
+
+| case5 |  |
+| :-------------------------:|:-------------------------: |
+| Activation Function | Linear rectification function|
+
+| Multi-GPU|  |
+| :-------------------------:|:-------------------------: |
+| Activation Function | Linear rectification function|
+
+| Micro150 |  |
+| :-------------------------:|:-------------------------: |
+| Activation Function | Linear rectification function|
+
+| Ascend910 |  |
+| :-------------------------:|:-------------------------: |
+| Activation Function | Linear rectification function|
 
 ## References
 [1]Y. Ma, L. Delshadtehrani, C. Demirkiran, J. L. Abellan, and A. Joshi, “Tap-2.5 d: A thermally-aware chiplet placement methodology for 2.5 d systems,” in 2021 Design, Automation & Test in Europe Conference & Exhibition (DATE). IEEE, 2021, pp. 1246–1251.

@@ -41,6 +41,10 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
       
 
 ### Results
+### Comparisons of reward, wirelength, temperature and runtime
+
+
+### Comparisons of the final placement
 
 ## References
 [1]Y. Ma, L. Delshadtehrani, C. Demirkiran, J. L. Abellan, and A. Joshi, “Tap-2.5 d: A thermally-aware chiplet placement methodology for 2.5 d systems,” in 2021 Design, Automation & Test in Europe Conference & Exhibition (DATE). IEEE, 2021, pp. 1246–1251.

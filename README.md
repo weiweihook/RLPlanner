@@ -46,6 +46,7 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 
 ### Comparisons of the final placement
 - case1
+
 | RLPlanner | RLPlanner(dense reward)  |RLPlanner(dense reward)|
 | :-------------------------:|:-------------------------: |:-------------------------: |
 |  |  | |
@@ -53,6 +54,7 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 |  |  | |
 
 - case2
+
 | RLPlanner | RLPlanner(dense reward)  |RLPlanner(dense reward)|
 | :-------------------------:|:-------------------------: |:-------------------------: |
 |  |  | |
@@ -60,6 +62,7 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 |  |  | |
 
 - case3
+
 | RLPlanner | RLPlanner(dense reward)  |RLPlanner(dense reward)|
 | :-------------------------:|:-------------------------: |:-------------------------: |
 |  |  | |
@@ -67,6 +70,7 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 |  |  | |
 
 - case4
+
 | RLPlanner | RLPlanner(dense reward)  |RLPlanner(dense reward)|
 | :-------------------------:|:-------------------------: |:-------------------------: |
 |  |  | |
@@ -74,6 +78,7 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 |  |  | |
 
 - case5
+
 | RLPlanner | RLPlanner(dense reward)  |RLPlanner(dense reward)|
 | :-------------------------:|:-------------------------: |:-------------------------: |
 |  |  | |
@@ -81,6 +86,7 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 |  |  | |
 
 - Multi-GPU
+
 | RLPlanner | RLPlanner(dense reward)  |RLPlanner(dense reward)|
 | :-------------------------:|:-------------------------: |:-------------------------: |
 |  |  | |
@@ -88,6 +94,7 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 |  |  | |
 
 - Micro150
+
 | RLPlanner | RLPlanner(dense reward)  |RLPlanner(dense reward)|
 | :-------------------------:|:-------------------------: |:-------------------------: |
 |  |  | |
@@ -95,6 +102,7 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 |  |  | |
 
 - Ascend910
+
 | RLPlanner | RLPlanner(dense reward)  |RLPlanner(dense reward)|
 | RLPlanner | RLPlanner(dense reward)  |RLPlanner(dense reward)|
 | :-------------------------:|:-------------------------: |:-------------------------: |

@@ -93,6 +93,7 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 | TAP-2.5D(Hotspot) | TAP-2.5D*(Table Model) | |
 
 
+
 - Micro150
 
 | RLPlanner | RLPlanner(dense reward)  |RLPlanner(dense reward)|

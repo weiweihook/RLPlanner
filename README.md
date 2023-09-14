@@ -42,7 +42,7 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 
 ### Results
 ### Comparisons of reward, wirelength, temperature and runtime
-![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/comparison_RWTR.png)
+![]()
 
 ### Comparisons of the final placement
 - case1

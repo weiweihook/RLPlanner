@@ -86,6 +86,7 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/tap1/case5.png) | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/tap2/case5.png) | |
 
 - Multi-GPU
+
 | RLPlanner | RLPlanner(dense reward)  |RLPlanner(dense reward)|
 | :-------------------------:|:-------------------------: |:-------------------------: |
 | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/cnn/case7.png) | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/dense/case7.png)  | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/rnd/case7.png)|

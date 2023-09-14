@@ -91,7 +91,7 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 | :-------------------------:|:-------------------------: |:-------------------------: |
 | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/cnn/case1.png) | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/dense/case1.png)  | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/rnd/case1.png)|
 | TAP-2.5D(Hotspot) | TAP-2.5D*(Table Model) | |
-| ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/tap1/case1.png) | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/tap2/case1.png) | |
+| ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/tap1/case7.png) | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/tap2/case7.png) | |
 
 - Micro150
 

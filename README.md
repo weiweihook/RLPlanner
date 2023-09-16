@@ -56,7 +56,7 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 | RLPlanner | RLPlanner(dense reward)  |RLPlanner(dense reward, RND)|
 | :-------------------------:|:-------------------------: |:-------------------------: |
 | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/cnn/case1.png) | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/dense/case1.png)  | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/rnd/case1.png)|
-| TAP-2.5D(Hotspot) | TAP-2.5D*(Table Model) | |
+| TAP-2.5D(Hotspot) | TAP-2.5D*(Fast Thermal Model) | |
 | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/tap1/case1.png) | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/tap2/case1.png) | |
 
 - case2
@@ -64,7 +64,7 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 | RLPlanner | RLPlanner(dense reward)  |RLPlanner(dense reward, RND)|
 | :-------------------------:|:-------------------------: |:-------------------------: |
 | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/cnn/case2.png) | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/dense/case2.png)  | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/rnd/case2.png)|
-| TAP-2.5D(Hotspot) | TAP-2.5D*(Table Model) | |
+| TAP-2.5D(Hotspot) | TAP-2.5D*(Fast Thermal Model) | |
 | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/tap1/case2.png) | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/tap2/case2.png) | |
 
 - case3
@@ -72,7 +72,7 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 | RLPlanner | RLPlanner(dense reward)  |RLPlanner(dense reward, RND)|
 | :-------------------------:|:-------------------------: |:-------------------------: |
 | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/cnn/case3.png) | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/dense/case3.png)  | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/rnd/case3.png)|
-| TAP-2.5D(Hotspot) | TAP-2.5D*(Table Model) | |
+| TAP-2.5D(Hotspot) | TAP-2.5D*(Fast Thermal Model) | |
 | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/tap1/case3.png) | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/tap2/case3.png) | |
 
 - case4
@@ -80,7 +80,7 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 | RLPlanner | RLPlanner(dense reward)  |RLPlanner(dense reward, RND)|
 | :-------------------------:|:-------------------------: |:-------------------------: |
 | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/cnn/case4.png) | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/dense/case4.png)  | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/rnd/case4.png)|
-| TAP-2.5D(Hotspot) | TAP-2.5D*(Table Model) | |
+| TAP-2.5D(Hotspot) | TAP-2.5D*(Fast Thermal Model) | |
 | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/tap1/case4.png) | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/tap2/case4.png) | |
 
 - case5
@@ -88,7 +88,7 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 | RLPlanner | RLPlanner(dense reward)  |RLPlanner(dense reward, RND)|
 | :-------------------------:|:-------------------------: |:-------------------------: |
 | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/cnn/case5.png) | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/dense/case5.png)  | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/rnd/case5.png)|
-| TAP-2.5D(Hotspot) | TAP-2.5D*(Table Model) | |
+| TAP-2.5D(Hotspot) | TAP-2.5D*(Fast Thermal Model) | |
 | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/tap1/case5.png) | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/tap2/case5.png) | |
 
 - Multi-GPU
@@ -96,7 +96,7 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 | RLPlanner | RLPlanner(dense reward)  |RLPlanner(dense reward,  RND)|
 | :-------------------------:|:-------------------------: |:-------------------------: |
 | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/cnn/case7.png) | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/dense/case7.png)  | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/rnd/case7.png)|
-| TAP-2.5D(Hotspot) | TAP-2.5D*(Table Model) | |
+| TAP-2.5D(Hotspot) | TAP-2.5D*(Fast Thermal Model) | |
 | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/tap1/case71.png) | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/tap2/case71.png) | |
 
 
@@ -105,7 +105,7 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 | RLPlanner | RLPlanner(dense reward)  |RLPlanner(dense reward, RND)|
 | :-------------------------:|:-------------------------: |:-------------------------: |
 | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/cnn/case8.png) | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/dense/case8.png)  | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/rnd/case8.png)|
-| TAP-2.5D(Hotspot) | TAP-2.5D*(Table Model) | |
+| TAP-2.5D(Hotspot) | TAP-2.5D*(Fast Thermal Model) | |
 | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/tap1/case8.png) | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/tap2/case8.png) | |
 
 - Ascend910
@@ -113,7 +113,7 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 | RLPlanner | RLPlanner(dense reward)  |RLPlanner(dense reward, RND)|
 | :-------------------------:|:-------------------------: |:-------------------------: |
 | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/cnn/case6.png) | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/dense/case6.png)  | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/rnd/case6.png)|
-| TAP-2.5D(Hotspot) | TAP-2.5D*(Table Model) | |
+| TAP-2.5D(Hotspot) | TAP-2.5D*(Fast Thermal Model) | |
 | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/tap1/case6.png) | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/tap2/case6.png) | |
 
 ## References

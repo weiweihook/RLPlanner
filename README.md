@@ -64,7 +64,7 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 | RLPlanner | RLPlanner(dense reward)  |RLPlanner(dense reward, RND)|
 | :-------------------------:|:-------------------------: |:-------------------------: |
 | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/placement_map/cnn/case1.png) | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/placement_map/dense/case1.png)  | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/placement_map/rnd/case1.png)|
-| TAP-2.5D(Hotspot) | TAP-2.5D*(Fast Thermal Model) | |
+| **TAP-2.5D(Hotspot)** | **TAP-2.5D<sup>*<sup>(Fast Thermal Model)** | |
 | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/placement_map/tap1/case1.png) | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/placement_map/tap2/case1.png) | |
 
 </center>
@@ -76,7 +76,7 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 | RLPlanner | RLPlanner(dense reward)  |RLPlanner(dense reward, RND)|
 | :-------------------------:|:-------------------------: |:-------------------------: |
 | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/placement_map/cnn/case2.png) | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/placement_map/dense/case2.png)  | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/placement_map/rnd/case2.png)|
-| TAP-2.5D(Hotspot) | TAP-2.5D*(Fast Thermal Model) | |
+| **TAP-2.5D(Hotspot)** | **TAP-2.5D(Fast Thermal Model)** | |
 | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/placement_map/tap1/case2.png) | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/placement_map/tap2/case2.png) | |
 
 </center>

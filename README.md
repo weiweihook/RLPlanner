@@ -48,21 +48,30 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/results.png)
 
 ### Plots of reward, wirelength, temperatures on CPU-DRAM System
+<center>
+  
 | Mean Reward | Wirelength | Temperature|
 | :-------------------------:|:-------------------------: |:-------------------------: |
 | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/cpu-dram/reward.png)|![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/cpu-dram/length.png)| ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/cpu-dram/temp.png)|
 
+</center>
 
 ### Comparisons of the final placement
 - case1
 
+<center>
+  
 | RLPlanner | RLPlanner(dense reward)  |RLPlanner(dense reward, RND)|
 | :-------------------------:|:-------------------------: |:-------------------------: |
 | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/placement_map/cnn/case1.png) | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/placement_map/dense/case1.png)  | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/placement_map/rnd/case1.png)|
 | TAP-2.5D(Hotspot) | TAP-2.5D*(Fast Thermal Model) | |
 | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/placement_map/tap1/case1.png) | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/placement_map/tap2/case1.png) | |
 
+</center>
+
 - case2
+
+</center>
 
 | RLPlanner | RLPlanner(dense reward)  |RLPlanner(dense reward, RND)|
 | :-------------------------:|:-------------------------: |:-------------------------: |
@@ -70,7 +79,11 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 | TAP-2.5D(Hotspot) | TAP-2.5D*(Fast Thermal Model) | |
 | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/placement_map/tap1/case2.png) | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/placement_map/tap2/case2.png) | |
 
+</center>
+
 - case3
+
+</center>
 
 | RLPlanner | RLPlanner(dense reward)  |RLPlanner(dense reward, RND)|
 | :-------------------------:|:-------------------------: |:-------------------------: |
@@ -78,7 +91,11 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 | TAP-2.5D(Hotspot) | TAP-2.5D*(Fast Thermal Model) | |
 | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/placement_map/tap1/case3.png) | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/placement_map/tap2/case3.png) | |
 
+</center>
+
 - case4
+
+</center>
 
 | RLPlanner | RLPlanner(dense reward)  |RLPlanner(dense reward, RND)|
 | :-------------------------:|:-------------------------: |:-------------------------: |
@@ -86,7 +103,11 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 | TAP-2.5D(Hotspot) | TAP-2.5D*(Fast Thermal Model) | |
 | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/placement_map/tap1/case4.png) | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/placement_map/tap2/case4.png) | |
 
+</center>
+
 - case5
+
+</center>
 
 | RLPlanner | RLPlanner(dense reward)  |RLPlanner(dense reward, RND)|
 | :-------------------------:|:-------------------------: |:-------------------------: |
@@ -94,7 +115,11 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 | TAP-2.5D(Hotspot) | TAP-2.5D*(Fast Thermal Model) | |
 | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/placement_map/tap1/case5.png) | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/placement_map/tap2/case5.png) | |
 
+</center>
+
 - Multi-GPU
+
+</center>
 
 | RLPlanner | RLPlanner(dense reward)  |RLPlanner(dense reward,  RND)|
 | :-------------------------:|:-------------------------: |:-------------------------: |
@@ -102,8 +127,11 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 | TAP-2.5D(Hotspot) | TAP-2.5D*(Fast Thermal Model) | |
 | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/placement_map/tap1/case7.png) | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/placement_map/tap2/case7.png) | |
 
+</center>
 
 - Micro150
+
+</center>
 
 | RLPlanner | RLPlanner(dense reward)  |RLPlanner(dense reward, RND)|
 | :-------------------------:|:-------------------------: |:-------------------------: |
@@ -111,13 +139,19 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 | TAP-2.5D(Hotspot) | TAP-2.5D*(Fast Thermal Model) | |
 | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/placement_map/tap1/case8.png) | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/placement_map/tap2/case8.png) | |
 
+</center>
+
 - Ascend910
+
+</center>
 
 | RLPlanner | RLPlanner(dense reward)  |RLPlanner(dense reward, RND)|
 | :-------------------------:|:-------------------------: |:-------------------------: |
 | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/placement_map/cnn/case6.png) | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/placement_map/dense/case6.png)  | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/placement_map/rnd/case6.png)|
 | TAP-2.5D(Hotspot) | TAP-2.5D*(Fast Thermal Model) | |
 | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/placement_map/tap1/case6.png) | ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/placement_map/tap2/case6.png) | |
+
+</center>
 
 ## References
 [1]Y. Ma, L. Delshadtehrani, C. Demirkiran, J. L. Abellan, and A. Joshi, “Tap-2.5 d: A thermally-aware chiplet placement methodology for 2.5 d systems,” in 2021 Design, Automation & Test in Europe Conference & Exhibition (DATE). IEEE, 2021, pp. 1246–1251.

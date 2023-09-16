@@ -26,6 +26,7 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 ## Experiment
 ### Setting
 <center>
+  
 | Hyperparameter | Value |
 | :-------------------------:|:-------------------------: |
 | Activation Function | Linear rectification function|
@@ -39,6 +40,7 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 | Entropy Coefficient | 0.01|
 | Value Coefficient   | 0.5 |
 | Discount(γ)         | 0.99|
+
 </center>
 
 ### Results

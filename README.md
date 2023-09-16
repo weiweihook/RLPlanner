@@ -57,7 +57,7 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 </center>
 
 ### Comparisons of the final placement
-- case1
+- Case1 System
 
 <center>
   
@@ -69,7 +69,7 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 
 </center>
 
-- case2
+- Case2 System
 
 </center>
 
@@ -81,7 +81,7 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 
 </center>
 
-- case3
+- Case3 System
 
 </center>
 
@@ -93,7 +93,7 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 
 </center>
 
-- case4
+- Case4 System
 
 </center>
 
@@ -105,7 +105,7 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 
 </center>
 
-- case5
+- Case5 System
 
 </center>
 
@@ -117,7 +117,7 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 
 </center>
 
-- Multi-GPU
+- Multi-GPU System
 
 </center>
 
@@ -129,7 +129,7 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 
 </center>
 
-- CPU-DRAM
+- CPU-DRAM System
 
 </center>
 
@@ -141,7 +141,7 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 
 </center>
 
-- Ascend910
+- Ascend910 System
 
 </center>
 

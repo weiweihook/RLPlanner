@@ -45,7 +45,7 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 
 ### Results
 ### Comparisons of reward, wirelength, temperature and runtime
-![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/results.png)
+![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/result.png)
 
 ### Plots of reward, wirelength, temperatures on CPU-DRAM System
 <center>

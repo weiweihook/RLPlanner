@@ -66,6 +66,8 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/thermal/fig3.png)
 The node temperatures predicted by fast thermal model are closely aligned with the yellow line representing the ground truth.
 
+<img src="[https://github.com/仓库名/项目名/blob/master/m/20200424230237910.jpg](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/thermal/fig3.png)" width="200" height="200" /><br/>
+
 - Thermal maps
 <center>
   

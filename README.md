@@ -21,7 +21,7 @@ We place eight examples under configs/ directory, which we used in our paper. It
 - CPU-DRAM system[2]
 - Huawei Ascend910 system [3]
 
-### 2. Conceptual systems
+### 2. Synthetic system
 - Case1, Case4: have the same six chiplet, the same width and height, but have different power values
 - Case2: consists of three HBMs and three CPUs
 - Case3, Case5: contain six chiplet with different sizes

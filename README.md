@@ -5,11 +5,13 @@ We are wrapping up the code and will release the code soon.
 
 # 2.5D_system_detail
 
-## Model Characterization For Chiplet Temperature![Uploading image.png…]()
+## Model Characterization For Chiplet Temperature
 
 - Self-Thermal Resistance Characterization：
+
   Although vertical heat conduction is dominant, horizontal heat conduction also varies due to boundary conditions, so the self-thermal resistance is dependent on the chiplet's location on the interposer. Different locations on the interposer center, edge, or corner have varying self-thermal resistance. For a given case containing any chiplet (each case may contain multiple chiplets), we exploit symmetry by considering the top-left quarter of the interposer. The chiplet under characterization is positioned at the four corners of this quarter, representing all possible positions – corner, edge, and center. Each time HotSpot is called, only the chiplet under characterization is active with a non-zero power (e.g., 100W). From this, the self-thermal resistance of the chiplet in question can be computed. After four calls to HotSpot, a 2D self-thermal resistance table for the chiplet is obtained. While this table contains data only for a few specific locations, they are representative and self-thermal resistances for other locations can be determined using a two-dimensional interpolation function. For every case, if we have multiple chiplets, the aforementioned process is repeated for each one.
 - Mutual Thermal Resistance Characterization:
+  
  In a homogeneous and isotropic system, the temperature on grids equidistant from the chiplet would be consistent. Thus, the mutual thermal resistance can be represented by a 1-D table concerning the distance between the power source and the grid location. This could be the distance between a chiplet and any location on the interposer, or it could be the inter-chiplet distance. The characterization method for mutual thermal resistance is similar to that for self-thermal resistance. For any given chiplet within a case, considering the furthest distance between chiplets, the chiplet is placed at the top-left corner, a grid located at the bottom-right corner would then represent the maximum distance from the top-left chiplet. As mentioned in Section A, calling HotSpot once generate temperature values for all grids. Using these temperatures and the designated chiplet power, the mutual thermal resistance between the chiplet and any position on the interposer can be calculated. A mutual thermal resistance table for the chiplet is thus established. For every case, if multiple chiplets are present, the process is repeated for each.
 
 ## Configurations

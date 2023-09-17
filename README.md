@@ -5,8 +5,6 @@ We are wrapping up the code and will release the code soon.
 
 # 2.5D_system_detail
 
-# 2.5D_system_detail
-
 ## Configurations
 We use .cfg file to describe a 2.5D system. Here we briefly describe the options in the .cfg file.
 ### [chiplets]

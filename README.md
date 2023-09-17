@@ -44,6 +44,23 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
 </center>
 
 ### Results
+
+### Fast thermal model
+
+- Temperature predictions vs ground truths for 32000 nodes
+![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/thermal/fig3.png)
+The node temperatures predicted by fast thermal model are closely aligned with the yellow line representing the ground truth.
+
+- Thermal maps
+<center>
+  
+  | | Multi-GPU System | CPU-DRAM System | Ascend910 System |
+  | :-------------------------:|:-------------------------: |:-------------------------: |:-------------------------: |
+  | Hotspot |![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/thermal/fig4a.png) |![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/thermal/fig4b.png)| ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/thermal/fig4c.png)|
+  | Fast Thermal Model |![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/thermal/fig4d.png) |![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/thermal/fig4e.png)|![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/thermal/fig4f.png)|
+</center>
+
+
 ### Comparisons of reward, wirelength, temperature and runtime
 ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/result.png)
 

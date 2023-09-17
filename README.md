@@ -52,7 +52,7 @@ In the future, we will randomly generate more 2.5D systems with different sizes 
   
 | Mean Reward | Wirelength | Temperature|
 | :-------------------------:|:-------------------------: |:-------------------------: |
-| ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/cpu-dram/reward.png)|![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/cpu-dram/length.png)| ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/cpu-dram/temp.png)|
+| ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/cpu-dram/reward3.png)|![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/cpu-dram/length3.png)| ![](https://github.com/weiweihook/2.5D-system-detail/blob/main/results/cpu-dram/temp3.png)|
 
 </center>
 

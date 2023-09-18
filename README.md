@@ -16,12 +16,12 @@ We use .cfg file to describe a 2.5D system. Here we briefly describe the options
 
 We place eight examples under configs/ directory, which we used in our paper. It contains two kinds of 2.5D system. 
 
-### 1. Open source systems
+### 1. Open-source systems
 - Multi-GPU system[1]
 - CPU-DRAM system[2]
 - Huawei Ascend910 system [3]
 
-### 2. Synthetic system
+### 2. Synthetic systems
 - Case1, Case4: have the same six chiplet, the same width and height, but have different power values
 - Case2: consists of three HBMs and three CPUs
 - Case3, Case5: contain six chiplet with different sizes

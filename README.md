@@ -1,14 +1,11 @@
 ## Table of Contents
 
 - [Source Code](#Source Code)
-- [2.5D System Detail](#2.5DSystemDetail)
+- [2.5D System Details](#Details)
 	- [Configurations](#Configurations)
   - [Model Characterization](#ModelCharacterization)
   - [Experiments](#eExperiments)
   - [References](#References)
-  - [Maintainers](#maintainers)
-  - [Contributing](#contributing)
-  - [License](#license)
 
 
 # Source Code
@@ -16,7 +13,7 @@ We are wrapping up the code and will release the code soon.
 ## Fast Thermal Model
 ## RLPLanner Framework
 
-# 2.5D System Detail
+# Details
 
 ## Configurations
 We use .cfg file to describe a 2.5D system. Here we briefly describe the options in the .cfg file.

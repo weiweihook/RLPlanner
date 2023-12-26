@@ -1,12 +1,18 @@
 ## Table of Contents
 
-- [2.5D System Details](#2.5D-System-Details)
+- [RLPlanner](#RLPlanner)
+  - [Overview](#overview)
   - [Configurations](#Configurations)
   - [Model Characterization](#Model-Characterization)
   - [Experiments](#Experiments)
   - [References](#References)
 
 # RLPlanner
+Chiplet-based systems have gained signiﬁcant attention in recent years due to their low cost and competitive performance. As the complexity and compactness of a chipletbased system increase, careful consideration must be given to microbump assignments, interconnect delays, and thermal limitations during the ﬂoorplanning stage. This paper introduces RLPlanner, an efﬁcient early-stage ﬂoorplanning tool for chipletbased systems with a novel fast thermal evaluation method. RLPlanner employs advanced reinforcement learning to jointly minimize total wirelength and temperature. To alleviate the time-consuming thermal calculations, RLPlanner incorporates the developed fast thermal evaluation method to expedite the iterations and optimizations. Comprehensive experiments demonstrate that our proposed fast thermal evaluation method achieves a mean absolute error (MAE) of ±0.25 K and delivers over 120x speedup compared to the open-source thermal solver HotSpot. When integrated with our fast thermal evaluation method, RLPlanner achieves an average improvement of 20.28% in minimizing the target objective (a combination of wirelength and temperature), within a similar running time, compared to the classic simulated annealing method with HotSpot.
+
+## Overview
+We present RLPlanner, a ﬂoorplanning tool based on reinforcement learning (RL) for early-stage chipletbased systems. RLPlanner utilizes advanced RL techniques and incorporates a novel fast thermal evaluation method to optimize both the maximum operating temperature and total wirelength of the chiplet system. To the best of our knowledege, this work presents the ﬁrst RL-based ﬂoorplanning tool for chiplet-based systems integrated with a fast thermal evaluation model. 
+
 
 ## Configurations
 We use .cfg file to describe a 2.5D system. Here we briefly describe the options in the .cfg file.

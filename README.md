@@ -6,7 +6,7 @@
   - [Experiments](#Experiments)
   - [References](#References)
 
-# 2.5D System Details
+# RLPlanner
 
 ## Configurations
 We use .cfg file to describe a 2.5D system. Here we briefly describe the options in the .cfg file.

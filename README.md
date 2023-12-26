@@ -1,19 +1,10 @@
 ## Table of Contents
 
-- [Source Code](#Source-Code)
-  - [Fast Thermal Model](#Fast-Thermal-Model)
-  - [RLPLanner Framework](#RLPLanner-Framework)
 - [2.5D System Details](#2.5D-System-Details)
   - [Configurations](#Configurations)
   - [Model Characterization](#Model-Characterization)
   - [Experiments](#Experiments)
   - [References](#References)
-
-
-# Source Code
-We are wrapping up the code and will release the code soon.
-## Fast Thermal Model
-## RLPLanner Framework
 
 # 2.5D System Details
 
